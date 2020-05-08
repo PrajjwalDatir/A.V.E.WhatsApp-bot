@@ -1,6 +1,6 @@
 import os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "music-mtwjas-d443d822713d.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "#json file#"
 
 
 import dialogflow as dialogflow
