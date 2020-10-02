@@ -17,7 +17,8 @@ git clone https://github.com/your-username/A.V.E.WhatsApp-bot.git
 ```
 * After you are done with making your changes onto your local repositary ( files/folders inside your pc. )
 
-* Commit and push And Please Add Proper Commit messages as well as Comments inside your code for better understanding.
+* Commit and push 
+* Add Proper Commit messages as well as Comments inside your code for better understanding.
 
 ```markdown
 git add .
